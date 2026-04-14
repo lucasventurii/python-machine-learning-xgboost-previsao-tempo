@@ -1,5 +1,3 @@
-# python-machine-learning-xgboost-previsao-tempo
-
 # 🌡️ Previsão de Temperatura com Machine Learning (XGBoost)
 
 ## 📌 Sobre o Projeto
